@@ -1,0 +1,35 @@
+.contentfoot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243 244 246);;
+}
+
+.contentfoot img{
+    height: 5rem;
+}
+
+.contentfoot span{
+    padding: 2rem;
+}
+
+.contentfoot span.tndspan{
+    padding-top: 0;
+}
+
+.contentfoot span.fndspan{
+    padding-bottom: 0;
+}
+
+.contentfoot .listlinks ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
+
+.contentfoot .listsocials ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
